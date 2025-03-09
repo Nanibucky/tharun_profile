@@ -20,11 +20,11 @@
 ## 🎓 Education
 - **Master of Science in Computer Engineering**
   - University of Michigan-Dearborn, USA (2023 - 2025)
-  - GPA: 3.67/4.0
+  - GPA: 3.97/4.0
 
 - **Bachelor of Engineering in Electronics and Communication**
   - Dayananda Sagar College of Engineering, India (2018 - 2022)
-  - GPA: 8.67/10.0
+  - GPA: 8.85/10.0
 
 <!-- Skills Section -->
 ## 🛠 Skills
@@ -70,13 +70,6 @@
 - Deep Learning Specialization - Coursera
 - Machine Learning Specialization - Coursera
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nanibucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanibucky&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanibucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
 <!-- Connect With Me -->
 ## 🌐 Connect with Me
