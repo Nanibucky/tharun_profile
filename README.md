@@ -19,7 +19,7 @@
 <!-- Education -->
 ## 🎓 Education
 - **Master of Science in Computer Engineering**
-  - University of Michigan-Dearborn, USA (2023 - 2025)
+  - University of Michigan-Dearborn, USA (2022 - 2024)
   - GPA: 3.97/4.0
 
 - **Bachelor of Engineering in Electronics and Communication**
