@@ -15,14 +15,6 @@
 - 💬 Ask me about **LLMs, RAG, Vector Databases, React, Node.js, and Cloud Technologies**
 - 📫 How to reach me: **pyayala@umich.edu**
 - ⚡ Fun fact: **I love exploring new AI technologies and building innovative solutions**
-<!-- About Me Section -->
-## 💫 About Me
-- 🔭 I'm currently working as an **AI Engineer at Symplore**
-- 🌱 I'm currently learning **Advanced LLMs and Vector Databases**
-- 👯 I'm looking to collaborate on **Open Source AI/ML Projects**
-- 💬 Ask me about **LLMs, RAG, Vector Databases, React, Node.js, and Cloud Technologies**
-- 📫 How to reach me: **pyayala@umich.edu**
-- ⚡ Fun fact: **I love exploring new AI technologies and building innovative solutions**
 
 <!-- Education -->
 ## 🎓 Education
