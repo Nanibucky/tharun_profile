@@ -72,17 +72,22 @@
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
+
 <div align="center">
   <a href="https://github.com/Nanibucky/Multimodal_MultiQuery_RAG">
-    <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/multi-modal-rag-featured.jpg",height = 300 width = 500 />
+    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&h=400&q=80" alt="Multimodal RAG" width="400" />
   </a>
   <a href="https://github.com/Nanibucky/Text2SQL">
-    <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/Fine-tuning-LLM.jpg",height = 300 width = 500 />
+    <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&h=400&q=80" alt="Text2SQL" width="400" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/Nanibucky/AWS_Chatbot">
-    <img src="https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg",height = 300 width = 500 />
+    <img src="https://images.unsplash.com/photo-1673187359209-791e4c3d89c6?auto=format&fit=crop&w=800&h=400&q=80" alt="AWS Chatbot" width="400" />
+  </a>
   <a href="https://github.com/Nanibucky/ToDo_Agents">
-    <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/Agents.jpg",height = 300 width = 500  />
+    <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&h=400&q=80" alt="ToDo Agents" width="400" />
   </a>
 </div>
 
