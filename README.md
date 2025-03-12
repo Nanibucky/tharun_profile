@@ -74,15 +74,15 @@
 ## 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/Nanibucky/Multimodal_MultiQuery_RAG">
-    <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/multi-modal-rag-featured.jpg",height = 300 width = 500/> />
+    <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/multi-modal-rag-featured.jpg",height = 300 width = 500 />
   </a>
   <a href="https://github.com/Nanibucky/Text2SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nanibucky&repo=Text2SQL&theme=dark" />
+    <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/Fine-tuning-LLM.jpg",height = 300 width = 500 />
   </a>
   <a href="https://github.com/Nanibucky/AWS_Chatbot">
-    <img src="https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg",height = 300 width = 500/> />
+    <img src="https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg",height = 300 width = 500 />
   <a href="https://github.com/Nanibucky/ToDo_Agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nanibucky&repo=ToDo_Agents&theme=dark" />
+    <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/Agents.jpg",height = 300 width = 500  />
   </a>
 </div>
 
