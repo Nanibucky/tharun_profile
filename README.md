@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nanibucky&repo=Text2SQL&theme=dark" />
   </a>
   <a href="https://github.com/Nanibucky/AWS_Chatbot">
-    <img src="https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg" />
+    <img src="https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg",height = 300 width = 500/> />
   <a href="https://github.com/Nanibucky/ToDo_Agents">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nanibucky&repo=ToDo_Agents&theme=dark" />
   </a>
