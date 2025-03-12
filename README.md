@@ -74,7 +74,7 @@
 ## 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/Nanibucky/Multimodal_MultiQuery_RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nanibucky&repo=Multimodal_MultiQuery_RAG&theme=dark" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Nanibucky&repo=Multimodal_MultiQuery_RAG&theme=dark](https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/multi-modal-rag-featured.jpg)",height = 300 width = 500/> />
   </a>
   <a href="https://github.com/Nanibucky/Text2SQL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nanibucky&repo=Text2SQL&theme=dark" />
