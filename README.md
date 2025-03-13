@@ -78,13 +78,13 @@
     <td align="center">
       <h3>Multimodal MultiQuery RAG</h3>
       <a href="https://github.com/Nanibucky/Multimodal_MultiQuery_RAG">
-        <img src="https://github.com/Nanibucky/Multimodal_MultiQuery_RAG/blob/main/source/cover%20page.jpg" alt="Multimodal RAG" width="400" />
+        <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/multi-modal-rag-featured.jpg" alt="Multimodal RAG" width="400" />
       </a>
     </td>
     <td align="center">
       <h3>Text2SQL</h3>
       <a href="https://github.com/Nanibucky/Text2SQL">
-        <img src="https://github.com/Nanibucky/Text2SQL/blob/main/source/cover%20page.jpg" alt="Text2SQL" width="400" />
+        <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/Fine-tuning-LLM.jpg" alt="Text2SQL" width="400" />
       </a>
     </td>
   </tr>
