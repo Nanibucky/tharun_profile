@@ -91,7 +91,7 @@
     <td align="center">
       <h3>AWS Chatbot</h3>
       <a href="https://github.com/Nanibucky/AWS_Chatbot">
-        <img src="https://images.unsplash.com/photo-1673187359209-791e4c3d89c6?auto=format&fit=crop&w=800&h=400&q=80" alt="AWS Chatbot" width="400" />
+        <img src="[https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg]&fit=crop&w=800&h=400&q=80" alt="AWS Chatbot" width="400" />
       </a>
     </td>
     <td align="center">
