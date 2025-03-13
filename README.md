@@ -72,18 +72,19 @@
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
+
 <table align="center">
   <tr>
     <td align="center">
       <h3>Multimodal MultiQuery RAG</h3>
       <a href="https://github.com/Nanibucky/Multimodal_MultiQuery_RAG">
-        <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&h=400&q=80" alt="Multimodal RAG" width="400" />
+        <img src="https://github.com/Nanibucky/Multimodal_MultiQuery_RAG/blob/main/source/cover%20page.jpg" alt="Multimodal RAG" width="400" />
       </a>
     </td>
     <td align="center">
       <h3>Text2SQL</h3>
       <a href="https://github.com/Nanibucky/Text2SQL">
-        <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&h=400&q=80" alt="Text2SQL" width="400" />
+        <img src="https://github.com/Nanibucky/Text2SQL/blob/main/source/cover%20page.jpg" alt="Text2SQL" width="400" />
       </a>
     </td>
   </tr>
@@ -91,13 +92,13 @@
     <td align="center">
       <h3>AWS Chatbot</h3>
       <a href="https://github.com/Nanibucky/AWS_Chatbot">
-        <img src="https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg&fit=crop&w=800&h=400&q=80" alt="AWS Chatbot" width="400" />
+        <img src="https://github.com/Nanibucky/AWS_Chatbot/blob/main/source/cover%20page.jpg" alt="AWS Chatbot" width="400" />
       </a>
     </td>
     <td align="center">
       <h3>ToDo Agents</h3>
       <a href="https://github.com/Nanibucky/ToDo_Agents">
-        <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/Agents.jpg&fit=crop&w=800&h=400&q=80" alt="ToDo Agents" width="400" />
+        <img src="https://github.com/Nanibucky/Nanibucky/blob/main/image/Agents.jpg" alt="ToDo Agents" width="400" />
       </a>
     </td>
   </tr>
