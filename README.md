@@ -43,6 +43,18 @@
 - **NLP**: Transformers, NLTK, spaCy
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 
+🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
+
+* *Langchain*
+* *LangGraph*
+* *Retrieval Augmented Generation (RAG)*
+* *Llama Index*
+* *OpenAI API*
+* *Mixtral (LLM)*
+* *Llama 2 (LLM)*
+* *GPT - 3 (LLM)*
+* *GPT - 3.5 (LLM)*
+* *GPT - 4 (LLM)*
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
